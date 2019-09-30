@@ -21,6 +21,12 @@
 		EA134DAF234165C200434E65 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = EA134DAE234165C200434E65 /* Alamofire */; };
 		EA134DB1234173DD00434E65 /* NewsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA134DB0234173DD00434E65 /* NewsDetailView.swift */; };
 		EA134DB3234185F400434E65 /* NewsImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA134DB2234185F400434E65 /* NewsImageView.swift */; };
+		EAD4666F2341B727005F024C /* TaskListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD4666E2341B727005F024C /* TaskListView.swift */; };
+		EAD4667123429E6E005F024C /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD4667023429E6E005F024C /* Task.swift */; };
+		EAD4667323429F05005F024C /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD4667223429F05005F024C /* UserData.swift */; };
+		EAD466752342A069005F024C /* UserDefaultsValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD466742342A069005F024C /* UserDefaultsValue.swift */; };
+		EAD466772342AA37005F024C /* TaskItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD466762342AA37005F024C /* TaskItemView.swift */; };
+		EAD466792342AD7A005F024C /* TaskEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD466782342AD7A005F024C /* TaskEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +66,12 @@
 		EA134DA7234155E700434E65 /* MainHomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainHomeViewModel.swift; sourceTree = "<group>"; };
 		EA134DB0234173DD00434E65 /* NewsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailView.swift; sourceTree = "<group>"; };
 		EA134DB2234185F400434E65 /* NewsImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsImageView.swift; sourceTree = "<group>"; };
+		EAD4666E2341B727005F024C /* TaskListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListView.swift; sourceTree = "<group>"; };
+		EAD4667023429E6E005F024C /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		EAD4667223429F05005F024C /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		EAD466742342A069005F024C /* UserDefaultsValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsValue.swift; sourceTree = "<group>"; };
+		EAD466762342AA37005F024C /* TaskItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskItemView.swift; sourceTree = "<group>"; };
+		EAD466782342AD7A005F024C /* TaskEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +135,12 @@
 				EA134D76234118A600434E65 /* LaunchScreen.storyboard */,
 				EA134D79234118A600434E65 /* Info.plist */,
 				EA134D73234118A600434E65 /* Preview Content */,
+				EAD4666E2341B727005F024C /* TaskListView.swift */,
+				EAD466762342AA37005F024C /* TaskItemView.swift */,
+				EAD466782342AD7A005F024C /* TaskEditView.swift */,
+				EAD4667223429F05005F024C /* UserData.swift */,
+				EAD466742342A069005F024C /* UserDefaultsValue.swift */,
+				EAD4667023429E6E005F024C /* Task.swift */,
 			);
 			path = "list-sample";
 			sourceTree = "<group>";
@@ -290,9 +308,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAD466772342AA37005F024C /* TaskItemView.swift in Sources */,
 				EA134DA223413F3900434E65 /* NewsRowView.swift in Sources */,
 				EA134DA8234155E700434E65 /* MainHomeViewModel.swift in Sources */,
+				EAD466792342AD7A005F024C /* TaskEditView.swift in Sources */,
+				EAD4667123429E6E005F024C /* Task.swift in Sources */,
+				EAD4666F2341B727005F024C /* TaskListView.swift in Sources */,
 				EA134DB1234173DD00434E65 /* NewsDetailView.swift in Sources */,
+				EAD4667323429F05005F024C /* UserData.swift in Sources */,
+				EAD466752342A069005F024C /* UserDefaultsValue.swift in Sources */,
 				EA134D6E234118A400434E65 /* SceneDelegate.swift in Sources */,
 				EA134DA02341356800434E65 /* Article.swift in Sources */,
 				EA134DA62341444600434E65 /* SearchBarView.swift in Sources */,

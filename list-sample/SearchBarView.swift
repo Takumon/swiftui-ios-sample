@@ -15,11 +15,11 @@ struct SearchBarView: View {
     var onCommit: () -> Void = { }
 
     var body: some View {
-        TextField(placeholder, text: text, onEditingChanged: onEditingChanged, onCommit: onCommit)
+        TextField(LocalizedStringKey("Create a New Task..."), text: text, onEditingChanged: onEditingChanged, onCommit: onCommit)
             .background(Color.gray.opacity(0.3))
             .padding(EdgeInsets(top: 0.0, leading: 16.0, bottom: 0, trailing: 16.0))
-
         
+
     }
     
 }
