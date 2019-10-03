@@ -241,7 +241,7 @@ Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 * [tristanhimmelman/ObjectMapper: Simple JSON Object mapping written in Swift](https://github.com/tristanhimmelman/ObjectMapper)
 
 ### Async Programming
-[Combine](https://developer.apple.com/documentation/combine/)(Not [RxSwift](https://github.com/ReactiveX/RxSwift)より
+[Combine](https://developer.apple.com/documentation/combine/)(Not [RxSwift](https://github.com/ReactiveX/RxSwift)
 )
 
 * [Will Combine kill RxSwift? - Flawless iOS - Medium](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89)
