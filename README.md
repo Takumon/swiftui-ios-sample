@@ -257,7 +257,7 @@ Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 * [Localizing Content for Swift Playgrounds - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/410/)
 
 
-### Managing local Data 
+### Managing Local Data
 
 [UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults), [Core Data](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html), [CoreStore](https://github.com/JohnEstropia/CoreStore)
 
