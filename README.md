@@ -222,3 +222,67 @@ struct TaskItemView: View {
 }
 ```
 
+
+
+## Main Library in iOS App
+
+* [Top 10 iOS Swift Libraries Every iOS Developer Should Know About | Infinum](https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about)
+
+### UI
+[SwiftUI](https://developer.apple.com/xcode/swiftui/)
+
+* [30 Auto Layout Best Practices for Xcode 10 Storyboards and iOS 12](https://blog.supereasyapps.com/30-auto-layout-best-practices/)
+
+### REST API Call
+[Alamofire](https://github.com/Alamofire/Alamofire) or [URLSession](https://developer.apple.com/documentation/foundation/urlsession)
+* [The best way to use REST APIs in Swift - arteko - Medium](https://medium.com/@arteko/the-best-way-to-use-rest-apis-in-swift-95e10696c980)
+
+Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
+* [tristanhimmelman/ObjectMapper: Simple JSON Object mapping written in Swift](https://github.com/tristanhimmelman/ObjectMapper)
+
+### Async Programming
+[Combine](https://developer.apple.com/documentation/combine/)(Not [RxSwift](https://github.com/ReactiveX/RxSwift)より
+)
+
+* [Will Combine kill RxSwift? - Flawless iOS - Medium](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89)
+* [RxSwift vs. Combine Wrap-Up — Liss is More](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up)
+* [heckj/swiftui-notes: A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine](https://github.com/heckj/swiftui-notes)
+
+### Error Handling
+
+* [Error handling in Combine explained with code examples - SwiftLee](https://www.avanderlee.com/swift/combine-error-handling/)
+
+### Localization
+
+* [Localizing Content for Swift Playgrounds - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/410/)
+
+
+### Managing local Data 
+
+[UserDefaults](https://developer.apple.com/documentation/foundation/userdefaults), [Core Data](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html), [CoreStore](https://github.com/JohnEstropia/CoreStore)
+
+
+* [Introduction to using Core Data with SwiftUI - a free SwiftUI by Example tutorial](https://www.hackingwithswift.com/quick-start/swiftui/introduction-to-using-core-data-with-swiftui)
+* [Core Data Best Practices - WWDC 2018 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2018/224/?time=7)
+
+
+### Unit Test, Testing in iOS Device
+
+[XCTest](https://developer.apple.com/documentation/xctest), TestFlight
+
+* [Testing in Xcode - WWDC 2019 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2019/413)
+* [WWDC 2018 Wishlist for Native  Developer and DevOps Tools – XCBLOG](http://shashikantjagtap.net/wwdc-2018-wishlist-for-native-%EF%A3%BF-developer-and-devops-tools/)
+* [Unit tests best practices in Xcode and Swift - SwiftLee](https://www.avanderlee.com/swift/unit-tests-best-practices/)
+* [Steps to put your app on TestFlight - Daniel Mathews - Medium](https://medium.com/@dmathewwws/steps-to-put-your-app-on-testflight-and-then-the-ios-app-store-10a7996411b1)
+
+### Releasing iOS App
+
+// TODO
+
+### Auto Update in iSO App
+
+// TODO
+
+### Best Practices
+
+// TODO
