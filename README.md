@@ -224,7 +224,7 @@ struct TaskItemView: View {
 
 
 
-## Main Library in iOS App
+## Main Libraries in iOS App
 
 * [Top 10 iOS Swift Libraries Every iOS Developer Should Know About | Infinum](https://infinum.co/the-capsized-eight/top-10-ios-swift-libraries-every-ios-developer-should-know-about)
 
