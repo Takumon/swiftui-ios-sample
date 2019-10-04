@@ -251,6 +251,7 @@ Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 ### Error Handling
 
 * [Error handling in Combine explained with code examples - SwiftLee](https://www.avanderlee.com/swift/combine-error-handling/)
+* [Top-down iOS error architecture - Bartosz Polaczyk - Medium](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad)
 
 ### Localization
 
