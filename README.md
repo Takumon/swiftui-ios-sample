@@ -239,6 +239,7 @@ struct TaskItemView: View {
 
 Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 * [tristanhimmelman/ObjectMapper: Simple JSON Object mapping written in Swift](https://github.com/tristanhimmelman/ObjectMapper)
+* [Modeling REST Endpoints With Enums in Swift - The Startup - Medium](https://medium.com/swlh/modeling-rest-endpoints-with-enums-in-swift-18965f30ee94)
 
 ### Async Programming
 [Combine](https://developer.apple.com/documentation/combine/)(Not [RxSwift](https://github.com/ReactiveX/RxSwift)
@@ -247,11 +248,14 @@ Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 * [Will Combine kill RxSwift? - Flawless iOS - Medium](https://medium.com/flawless-app-stories/will-combine-kill-rxswift-64780a150d89)
 * [RxSwift vs. Combine Wrap-Up — Liss is More](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up)
 * [heckj/swiftui-notes: A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine](https://github.com/heckj/swiftui-notes)
-
+* [URLSession and the Combine framework - The.Swift.Dev.](https://theswiftdev.com/2019/08/15/urlsession-and-the-combine-framework/)
+* [[Swift] はじめてのCombine | Apple製の非同期フレームワークを使ってみよう ｜ DevelopersIO](https://dev.classmethod.jp/smartphone/swift-combine-framework-for-beginners/)
+* [【iOS】Combineフレームワークまとめ - Qiita](https://qiita.com/shiz/items/5efac86479db77a52ccc)
 ### Error Handling
 
 * [Error handling in Combine explained with code examples - SwiftLee](https://www.avanderlee.com/swift/combine-error-handling/)
 * [Top-down iOS error architecture - Bartosz Polaczyk - Medium](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad)
+* [Swift 5 のResultに備える - Qiita](https://qiita.com/koher/items/7e92414082476fb87b76)
 
 ### Localization
 
@@ -265,7 +269,9 @@ Mapper -> [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)
 
 * [Introduction to using Core Data with SwiftUI - a free SwiftUI by Example tutorial](https://www.hackingwithswift.com/quick-start/swiftui/introduction-to-using-core-data-with-swiftui)
 * [Core Data Best Practices - WWDC 2018 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2018/224/?time=7)
-
+* [How to configure Core Data to work with SwiftUI - a free SwiftUI by Example tutorial](https://www.hackingwithswift.com/quick-start/swiftui/how-to-configure-core-data-to-work-with-swiftui)
+* [andrewcbancroft/BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI)
+* [Core DataをSwift 4で使う (iOS 10以降) - Qiita](https://qiita.com/da1ssk/items/3b1b9c11106717a5a935)
 
 ### Unit Test, Testing in iOS Device
 
